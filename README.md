@@ -18,6 +18,6 @@
 
 <br>
 
-<p align="center">
-  ![syyjbhjh3's github stats](https://github-readme-stats.vercel.app/api?username=syyjbhjh3&show_icons=true)
-</p>
+<div align=center>
+  
+![syyjbhjh3's github stats](https://github-readme-stats.vercel.app/api?username=syyjbhjh3&show_icons=true)
