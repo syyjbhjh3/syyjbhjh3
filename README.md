@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=vuedotjs&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
