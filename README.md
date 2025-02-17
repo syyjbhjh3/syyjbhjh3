@@ -2,10 +2,11 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=syyjbhjh3&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/syyjbhjh3"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
