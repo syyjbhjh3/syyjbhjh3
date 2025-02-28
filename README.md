@@ -1,10 +1,12 @@
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=syyjbhjh3&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/syyjbhjh3"
-  width="1000"
-  height="300"
-/>
+
+<a href="https://www.gitanimals.org/">
+  <img
+    src="https://render.gitanimals.org/guilds/683244236754140857/draw"
+    width="1000"
+    height="300"
+    alt="gitanimals"
+  />
 </a>
 
 
