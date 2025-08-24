@@ -1,13 +1,13 @@
 
 
 <a href="https://www.gitanimals.org/">
-  <img
-    src="https://render.gitanimals.org/guilds/683244236754140857/draw"
-    width="1000"
-    height="300"
-    alt="gitanimals"
-  />
-</a>
+      <img
+        src="https://render.gitanimals.org/guilds/683244236754140857/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
